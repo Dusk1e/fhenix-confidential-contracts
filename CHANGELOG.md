@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.3.2
+
+### Patch Changes
+
+- 6e30218: Add new 'unshield' overload function that accepts an encrypted amount.
+- f473f5e: Adds 'ERC20Confidential' extension, an abstract ERC20 with a second confidential balance.
+  Update Dependencies Versions.
+- 29203f8: ERC20ConfidentialUpgradeable version with tests
+
 ## 0.3.1
 
 ### Patch Changes
